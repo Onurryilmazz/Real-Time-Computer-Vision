@@ -14,6 +14,8 @@ Computer vision, one of the deep learning applications, was used in this work re
 |[face_mesh.py](https://github.com/Onurryilmazz/Real-Time-Computer-Vision/blob/main/face_mesh.py "face_mesh.py")         |`detection of face points` 
 |[pose_estimation.py](https://github.com/Onurryilmazz/Real-Time-Computer-Vision/blob/main/pose_estimation.py "pose_estimation.py")         |`real-time detection of human poses` 
 |[requirements.txt](https://github.com/Onurryilmazz/Real-Time-Computer-Vision/blob/main/requirements.txt "requirements.txt") |`required libraries` 
+|[FingerCounting.py](https://github.com/Onurryilmazz/Real-Time-Computer-Vision/blob/main/FingerCounting.py "FingerCounting.py") |`Finger Counting Code` 
+|[FingerImages](https://github.com/Onurryilmazz/Real-Time-Computer-Vision/tree/main/FingerImages "Fingers") |`Finger Counting visualization` 
 
 ## Results
 
